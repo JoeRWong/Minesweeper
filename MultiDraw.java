@@ -152,7 +152,7 @@ public class MultiDraw extends JPanel  implements MouseListener
                 }
             }
             int i = 0;
-            while(i < 8)
+            while(i < 9)
             {
                 int y = (int) (Math.random()*(rows));
                 int x = (int) (Math.random() *(cols));
